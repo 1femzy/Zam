@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>femzy</title>
+</head>
+<body>
+  <title>logo</title>
+  <h1>
+    Femzy Animation
+  </h1>
+  <div> <u>PRODUCTS</u>
+    <ul>
+      <li>VIP 1
+        <p>Daily income 100<br>Cyles 45 days<br>price 1000ksh<br>Total income 4500ksh</p>
+        <a href="#">BUY</a>
+        <li>VIP 2
+          <p>Daily income 200<br>Cycles 45 days<br>price 2000ksh</p>
+          <a href="#">BUY</a>
+          
+          <li>VIP 3
+            <p>Daily income 450<br>Cycles 45 days<br>Price 3900</p>
+            <a href="#">BUY</a>
+          </li>
+          
+        </li>
+      </li>
+    </ul>
+    
+  </div>
+
+        <h3 class="logo">Melody</h1>
+      </div>
+      
+      <div class="menu">
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">SERVICE</a></li>
+          <li><a href="#">DESIGN</a></li>
+          <li><a href="#">CONTACT</a></li>
+        </ul>
+        <div class="search">
+          <input class="srch" type="search" name="" placeholder="Type to text">
+          <a href="#"<button class="btn">search</button>
+        </div>
+          <div class="content">
+            <h1>Human resource <br><span> manager.The woman of<br>integrity</span>
+              <p class="par">She is a student at eldoret national politechnic but currently, <br> Melody is doing her attachment at Bungoma county government.</p>
+              <button class="cm"><a href="#">Join her</a> </button>
+              
+              <div class="Item">
+                <h2>Product</h2>
+                <p class="par">Tusker<img> <br>cycles 90 days<br>price 2000ksh</p>
+                <a href="#">BUY</a>
+              </div>
+              
+              <div class="form">
+                <h3>login here</h3>
+                <input type="email" name="email" placeholder="Enter Email Here">
+                <input type="password" name="" placeholder="Enter Password Here">
+                <button class="btn"><a href="#">Login</a></button>
+                
+                <p class="link">Dont have an account<br>
+                <a href="#">Sign up</a> here</a></p>
+                <p class="liw">Log in with</p>
+              
+              <div class="icon">
+                <a href="#"><ion-icon name="logo-Facebook"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-whatsaap"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-Tiktok"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-Instagram"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+              </div>
+              <img src=""
+          </div>
+      </div>
+    </div>
+  </div>
+  <h1>
+  
+  </h1>
+    <script src=""></script>
+</body>
+</html>
+
+  <a href="htt://www.femzy.com">our homepage</a>
+</body>
+</html>
